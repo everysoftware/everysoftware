@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=everysoftware&style=flat&color=red" alt=""/>
-<div id="header" align="center"> 
+</div>
   
 <div id="header" align="center"> 
 <h1>
@@ -39,3 +39,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div> 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=everysoftware&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
