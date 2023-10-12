@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="header.png" alt="альтернативный текст">
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100"/>  
 </div>  
-
-<div id="header" align="center"> 
+-->
+<div id="header" align=""> 
   <a href="https://ivanstasevich.t.me/">
     <img src="https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black" alt="Telegram Badge"/>
   </a>
@@ -27,10 +28,10 @@ Here are some ideas to get you started:
   <a href="mailto:pravitel2015ify@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&color=black" alt="GMail Badge"/>
   </a>
-</div> 
+</div>   
 
-<div id="header" align="center"> 
-<img src="https://komarev.com/ghpvc/?username=everysoftware&style=flat&color=red" alt=""/>
+<div id="header" align=""> 
+  <img src="https://komarev.com/ghpvc/?username=everysoftware&style=flat&color=red" alt=""/>
 </div>
   
 <div id="header" align="center"> 
