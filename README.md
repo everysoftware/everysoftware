@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey, I'm Ivan 👋</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="200"/>  
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="180"/>  
 </div>
 <h3 align="">About me</h3>
 
@@ -53,8 +53,12 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Some stats
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align=""> 
   <img src="https://komarev.com/ghpvc/?username=everysoftware&style=flat&color=red" alt=""/>
-</div>
-
+</div>  
