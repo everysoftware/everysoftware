@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3 align="">About me</h3>
 
 - Python backend developer, Russia 🇷🇺
+- Web apps & telegram bots 💻
 - Bachelor's student in Computer Science at HSE University 🎓
-- I love trying new things and developing myself 💡
-- My motto: “in your life you are not a passenger, you are a pilot” ✈️  
+- I love trying new things and developing myself ✈️
 <div id="header" align=""> 
   <a href="https://ivanstasevich.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
