@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 
 
 <h1 align="">Hey, I'm Ivan 👋</h1>
-
-
 <h3 align="">About me</h3>
 
-- Python backend developer, Russia 🇷🇺
-- Web apps & telegram bots 💻
+- Backend developer, Russia 🇷🇺
+- Focus on web apps & telegram bots 💻
 - Bachelor's student in Computer Science at HSE University 🎓
-- I love trying new things and developing myself ✈️
+- I love trying new things and developing myself 🪐
+
 <div id="header" align=""> 
   <a href="https://ivanstasevich.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/vanyastasevich">
-    <img src="https://img.shields.io/badge/-vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
+  
   <a href="mailto:pravitel2015ify@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
@@ -49,29 +46,25 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-darkgreen?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FDFFF5.svg?style=for-the-badge&logo=notion&logoColor=black)
+
 
 
 ### Some stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=everysoftware&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware&theme=transparent)
+
+
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div id="header" align=""> 
-  <img src="https://komarev.com/ghpvc/?username=everysoftware&style=flat&color=red" alt=""/>
-</div>  
-
-
 Easter egg:
 <div id="header" align="">
   <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="64"/>  
 </div>
+
+Уютное кафе...
 -->
