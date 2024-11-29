@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Backend developer, Russia 🇷🇺
 - Focus on web apps & telegram bots 💻
-- Bachelor's student in Computer Science at HSE University 🎓
+- Bachelor's degree in Computer Science at HSE University 🎓
 - I love trying new things and developing myself 🪐
 
 <div id="header" align=""> 
