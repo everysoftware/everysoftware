@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="">About me</h3>
 
 - Backend developer, Russia 🇷🇺
-- Focus on web apps & telegram bots 💻
+- Focus on scalable and highload backend systems 💻
 - Bachelor's degree in Computer Science at HSE University 🎓
-- I love trying new things and developing myself 🪐
+- Love networking and developing myself ❤️
 
 <div id="header" align=""> 
   <a href="https://ivanstasevich.t.me/">
