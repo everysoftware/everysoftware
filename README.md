@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Software engineer, Russia 🇷🇺
 - Focus on scalable and highload backend systems 💻
 - Bachelor's degree in Computer Science at HSE University 🎓
-- Love networking and developing myself ❤️
+- Love networking and developing myself 🚀
 
 <div id="header" align=""> 
   <a href="https://unocreato.t.me/">
