@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="">Hey, I'm Ivan 👋</h1>
 <h3 align="">About me</h3>
 
-- Software engineer, Russia 🇷🇺
+- Senior Python developer, Russia 🇷🇺
 - Focus on scalable and highload backend systems 💻
 - Bachelor's degree in Computer Science at HSE University 🎓
 - Love networking and developing myself 🚀
