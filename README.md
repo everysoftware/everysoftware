@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-  <a href="mailto:pravitel2015ify@gmail.com">
+  <a href="mailto:issstasevich@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>   
