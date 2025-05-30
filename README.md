@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 <h1 align="">Hey, I'm Ivan 👋</h1>
 <h3 align="">About me</h3>
 
-- Senior Python developer, Russia 🇷🇺
+- Python software engineer, Russia 🇷🇺
 - Focus on scalable and highload backend systems 💻
 - Bachelor's degree in Computer Science at HSE University 🎓
 - Love networking and developing myself 🚀
 
 <div id="header" align=""> 
-  <a href="https://ivanstasevich.t.me/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  
   <a href="mailto:pravitel2015ify@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
