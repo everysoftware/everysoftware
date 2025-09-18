@@ -14,19 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="">Hey, I'm Ivan 👋</h1>
 <h3 align="">About me</h3>
 
-- I'm a software engineer from Russia 🇷🇺
-- Focus on scalable and highload backend systems 💻
-- Bachelor's degree in Computer Science at HSE University 🎓
-- Love networking and developing myself 🚀
+Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺 
 
-<div id="header" align=""> 
-  <a href="mailto:pravitel2015ify@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
-</div>   
+I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/fastid/) and [FastLink](https://github.com/everysoftware/fastlink)
 
 
 ### My stack
@@ -46,6 +38,13 @@ Here are some ideas to get you started:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<h3 align="">Contact me</h3>
+
+<div id="header" align=""> 
+  <a href="mailto:issstasevich@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>   
 
 ### Some stats
 
