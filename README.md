@@ -21,6 +21,12 @@ Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺
 I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/fastid/) and [FastLink](https://github.com/everysoftware/fastlink)
 
 
+<div id="header" align=""> 
+  <a href="mailto:issstasevich@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>   
+
 ### My stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,14 +43,6 @@ I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<h3 align="">Contact me</h3>
-
-<div id="header" align=""> 
-  <a href="mailto:issstasevich@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
-</div>   
 
 ### Some stats
 
