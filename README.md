@@ -25,9 +25,6 @@ I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/
   <a href="mailto:issstasevich@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/evsoft/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://boosty.to/everysoftware">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Boosty Badge"/>
   </a>
