@@ -20,32 +20,25 @@ Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺
 
 I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/fastid/) and [FastLink](https://github.com/everysoftware/fastlink)
 
-
-<div id="header" align=""> 
-  <a href="mailto:issstasevich@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
-  <a href="https://boosty.to/everysoftware">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Boosty Badge"/>
-  </a>
-</div>   
+[![GMail](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:issstasevich@gmail.com)
+[![Boosty](https://img.shields.io/badge/sponsor-black?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://boosty.to/everysoftware)
 
 ### My stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![AIOGRAM](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-darkgreen?style=for-the-badge&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![celery](https://img.shields.io/badge/celery-darkgreen?style=for-the-badge&logo=celery&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![AIOGRAM](https://img.shields.io/badge/aiogram-black?style=for-the-badge&logo=telegram&logoColor=blue)
+![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-black.svg?style=for-the-badge&logo=redis&logoColor=white)
+![celery](https://img.shields.io/badge/celery-black?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-black?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-black.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Some stats
 
