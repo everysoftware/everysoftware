@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺 
 
-I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/fastid/) and [FastLink](https://github.com/everysoftware/fastlink)
-
 ### My stack
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
