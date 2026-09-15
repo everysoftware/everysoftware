@@ -35,12 +35,6 @@ Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺
 ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Some stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=everysoftware&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware&theme=transparent)
-
-
 <!--
 Easter egg:
 <div id="header" align="">
