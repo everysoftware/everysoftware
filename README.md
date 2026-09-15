@@ -20,9 +20,6 @@ Hey, I'm Ivan! I'm a Python engineer from Russia 🇷🇺
 
 I'm changing the Python ecosystem with [FastID](https://everysoftware.github.io/fastid/) and [FastLink](https://github.com/everysoftware/fastlink)
 
-[![GMail](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:issstasevich@gmail.com)
-[![Boosty](https://img.shields.io/badge/sponsor-black?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://boosty.to/everysoftware)
-
 ### My stack
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
